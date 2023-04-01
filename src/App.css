@@ -1,0 +1,17 @@
+.App {
+  margin: 10px;
+  text-align: center;
+}
+
+.calculator {
+  border-style: solid;
+  margin: auto;
+  border-radius: 10px;
+  width: calc(100vh - 100px);
+}
+
+button {
+  margin: 5px;
+  border-radius: 5px;
+  font-size: 15px;
+}
